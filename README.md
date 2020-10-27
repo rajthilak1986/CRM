@@ -1,2 +1,2 @@
 # CRM
-This is used for customer interarction
+This is used for Customer Interarction
